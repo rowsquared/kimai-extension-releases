@@ -6,6 +6,11 @@
           "version": "0.4.0",
           "update_link": "https://rowsquared.github.io/kimai-extension-releases/kimai-browser-extension-0.4.0.xpi",
           "update_hash": "sha256:dc215c9de6bc4443c087e6b1c49b2110f5691f91f33b700470213712fb1bc8a7"
+        },
+        {
+          "version": "0.5.0",
+          "update_link": "https://rowsquared.github.io/kimai-extension-releases/kimai-browser-extension-0.5.0.xpi",
+          "update_hash": "sha256:9693a2a64447663be18bbc17b9d400fc2a32ec22806682844f89a7d4663e17ac"
         }
       ]
     }
